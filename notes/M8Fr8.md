@@ -1,18 +1,22 @@
 ---
-title: M8Fr8 - 19/02/19
+title: M8Fr8
 tags: [Notebooks]
 created: '2019-02-19T08:18:55.349Z'
-modified: '2019-02-19T22:14:36.614Z'
+modified: '2019-02-19T22:42:03.484Z'
 ---
 
-# M8Fr8 - 19/02/19
+# M8Fr8
+
+> 19/02/2019
+
+----
 
 ## Minimum Viable Product
 
 * Core Functionality
 * TODO: ...
 
-## Backend (Firebase)
+### Backend (Firebase)
 
 * Authentication
   * User Management
@@ -28,7 +32,7 @@ modified: '2019-02-19T22:14:36.614Z'
   * Routing
   * Machine Learning
   
-## Frontend
+### Frontend
 
 * Mobile (Flutter or ReactNative)
   * Android
