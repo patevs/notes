@@ -1,6 +1,8 @@
 ---
 title: 02 - Flutter Development
-tags: [Notebooks/Mobile Dev]
+tags: [Flutter, Notebooks/Mobile Dev]
+created: '2019-02-19T21:17:34.401Z'
+modified: '2019-02-19T22:18:05.363Z'
 ---
 
 # 02 - Flutter Development

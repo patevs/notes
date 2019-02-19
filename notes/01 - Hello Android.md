@@ -1,6 +1,8 @@
 ---
 title: 01 - Hello Android
-tags: [Notebooks/Mobile Dev]
+tags: [Android, Notebooks/Mobile Dev]
+created: '2019-02-19T21:17:34.391Z'
+modified: '2019-02-19T22:18:00.462Z'
 ---
 
 # 01 - Hello Android
