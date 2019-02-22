@@ -1,11 +1,15 @@
 ---
-title: 20/02/2019
+title: Python Basics
 created: '2019-02-19T22:14:54.049Z'
-modified: '2019-02-19T22:59:42.049Z'
-tags: [Notebooks/Dated, Python]
+modified: '2019-02-22T05:47:44.124Z'
+tags: [Notebooks/Python, Python]
 ---
 
-# 20/02/2019
+# Python Basics
+
+> 20/02/2019
+
+----
 
 Introduction to the [`Python`](https://www.python.org/) programming language including installation methods and basic commands.
 
