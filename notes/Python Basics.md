@@ -1,7 +1,7 @@
 ---
 title: Python Basics
 created: '2019-02-19T22:14:54.049Z'
-modified: '2019-03-05T02:11:08.121Z'
+modified: '2019-03-05T02:18:11.529Z'
 tags: [Notebooks/Python, Python]
 ---
 
@@ -34,25 +34,15 @@ Choose one of the following installation methods
 * Download and run the native **Python** installer: 
   https://www.python.org/downloads/
 
-#### Anaconda
-
-* Download and run the **Anaconda** installer:
-  https://www.anaconda.com/distribution/
-
 #### Chocolatey
 *Note:* requires Chocolatey to be installed.
   * [`python3`](https://chocolatey.org/packages/python)
-  * [`anaconda3`](https://chocolatey.org/packages/anaconda3)
   ```powershell
   # Run from an elevated (Administrator) command prompt
-  choco install python -y 
-  # OR
-  choco install anaconda3 -y
+  choco install python -y
   ```
 
-## Basic Commands
-
-#### Python
+### Basic Commands
 
 ```powershell
 # Print Python version
@@ -63,16 +53,5 @@ python -V
 # Overview of useful commands
 python -h
 ```
-
-#### Anaconda
-
-```powershell
-# Print anaconda version
-conda -v
-
-# Print help message
-conda -h
-```
-
 
 ----
