@@ -1,11 +1,11 @@
 ---
-title: Python Basics
+title: 01 - Python Basics
 created: '2019-02-19T22:14:54.049Z'
-modified: '2019-03-05T02:18:11.529Z'
+modified: '2019-03-05T03:17:44.711Z'
 tags: [Notebooks/Python, Python]
 ---
 
-# Python Basics
+# 01 - Python Basics
 
 > 20/02/2019
 
@@ -34,9 +34,9 @@ Choose one of the following installation methods
 * Download and run the native **Python** installer: 
   https://www.python.org/downloads/
 
-#### Chocolatey
+#### Chocolatey (Windows)
 *Note:* requires Chocolatey to be installed.
-  * [`python3`](https://chocolatey.org/packages/python)
+  * [`python3 package`](https://chocolatey.org/packages/python)
   ```powershell
   # Run from an elevated (Administrator) command prompt
   choco install python -y
@@ -47,7 +47,7 @@ Choose one of the following installation methods
 ```powershell
 # Print Python version
 # Useful to check Python has been correctly installed
-python -V
+python --version # OR python -V
 
 # Print help message 
 # Overview of useful commands
