@@ -7,12 +7,15 @@
 
 `Notable` is a markdown based note taking app.
 
-Notable app: 
-https://github.com/notable/notable
+Notable source: [`notable/notable`](https://github.com/notable/notable)
 
-Chocolatey package: https://chocolatey.org/packages/notable
+Download: [`notable/releases`](https://github.com/notable/notable/releases)
 
-Install with Chocolatey:
+Chocolatey package: [`packages/notable`](https://chocolatey.org/packages/notable)
+
+### Install with Chocolatey:
+
+*NOTE: requires chocolatey to be installed*
 
 ```powershell
 # Run from an elevated (administrator) command prompt
