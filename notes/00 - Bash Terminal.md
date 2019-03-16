@@ -67,6 +67,16 @@ If you are using `bash`, you should call `__posh_git_ps1` in your `PROMPT_COMMAN
 
 This shows username, at-sign, host, colon, cwd, then various status strings, followed by dollar and space, as your prompt. This invocation prepends this instruction to the existing value of `PROMPT_COMMAND`.
 
+**Example .bashrc**
+
+```bash
+source ~/git-flow-completion.bash
+source ~/git-prompt.sh
+
+PROMPT_COMMAND='__posh_git_ps1 "\[\033[01;32m\]\h \[\033[00m\]: \[\033[01;34m\]\w \[\033[00m\]: " "\n \[\033[00m\]$ ";'$PROMPT_COMMAND
+
+alias gs='git status'
+```
 
 
 ----
