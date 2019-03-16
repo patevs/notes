@@ -2,17 +2,17 @@
 title: 00 - Bash Terminal
 tags: [Bash, Notebooks/Bash]
 created: '2019-03-16T02:05:42.906Z'
-modified: '2019-03-16T02:57:14.348Z'
+modified: '2019-03-16T03:15:24.872Z'
 ---
 
 
 # 00 - Bash Terminal
 
-> 16/03/2019
+16/03/2019
+
+> Introduction to `bash` (**B**orn **A**gain **SH**ell) and the `git-bash` terminal.
 
 ----
-
-Introduction to `bash` (*B*orn *A*gain *SH*ell) and the `git-bash` terminal.
 
 Git for Windows provides a BASH emulation used to run Git from the command line. 
 
@@ -20,7 +20,7 @@ Download git-for-windows: https://gitforwindows.org/
 
 Update git-for-windows using the following command:
 
-```cmd
+```bash
   git update-git-for-windows
 ```
 
@@ -28,12 +28,51 @@ Update git-for-windows using the following command:
 
 ## Links & Resources
 
-* https://www.howtogeek.com/307701/how-to-customize-and-colorize-your-bash-prompt/
+* [`bobthecow/git-flow-completion`](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
 
-* https://github.com/lyze/posh-git-sh
+* [`lyze/posh-git-sh`](https://github.com/lyze/posh-git-sh)
 
-* https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion
+* [Customize bash prompt](https://www.howtogeek.com/307701/how-to-customize-and-colorize-your-bash-prompt/)
 
 ----
+
+### Install `git-flow-completion`
+
+Download and place `git-flow-completion.bash` in home directory (~/ in msysgit shell)
+
+Add a `.bashrc` file to your home directory with the following line (or add this line to existing .bashrc file):
+
+```bash
+  source ~/git-flow-completion.bash
+```
+
+----
+
+### Install `posh-git-sh`
+
+Download and place `git-prompt.sh` file to somewhere (e.g., ~/git-prompt.sh).
+
+Add the following line to your `~/.bashrc`. (You may need to update your `~/.bash_profile` to source your ~/.bashrc, or you can just modify ~/.bash_profile directly.)
+
+```bash
+  source ~/git-prompt.sh
+```
+
+If you are using `bash`, you should call `__posh_git_ps1` in your `PROMPT_COMMAND` variable. The function `__posh_git_ps1` takes two parameters (`__posh_git_ps1 <prefix> <suffix>`), and sets PS1 to `<prefix><status><suffix>`. You can also use `__posh_git_echo` to echo only the status.
+
+**Bash example:**
+```
+  PROMPT_COMMAND='__posh_git_ps1 "\u@\h:\w " "\\\$ ";'$PROMPT_COMMAND
+```
+
+This shows username, at-sign, host, colon, cwd, then various status strings, followed by dollar and space, as your prompt. This invocation prepends this instruction to the existing value of `PROMPT_COMMAND`.
+
+
+
+----
+
+
+
+
 
 
