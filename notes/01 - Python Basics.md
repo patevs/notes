@@ -1,9 +1,10 @@
 ---
 title: 01 - Python Basics
 created: '2019-02-19T22:14:54.049Z'
-modified: '2019-03-05T03:17:44.711Z'
+modified: '2019-03-17T23:31:42.562Z'
 tags: [Notebooks/Python, Python]
 ---
+
 
 # 01 - Python Basics
 
@@ -55,3 +56,4 @@ python -h
 ```
 
 ----
+
