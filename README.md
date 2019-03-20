@@ -1,27 +1,31 @@
 
-# Notable_Notes
+# Notes
 
-> Source repository for my notable notes
-
-----
+> Source repository containing my `notable` notes.
 
 `Notable` is a markdown based note taking app.
 
-Notable source: [`notable/notable`](https://github.com/notable/notable)
+----
 
-Download: [`notable/releases`](https://github.com/notable/notable/releases)
+## Links & Resources
 
-Chocolatey package: [`packages/notable`](https://chocolatey.org/packages/notable)
+* [`notable/notable`](https://github.com/notable/notable)
+* [`notable/releases`](https://github.com/notable/notable/releases)
 
-### Install with Chocolatey:
+----
 
-*NOTE: requires chocolatey to be installed*
+## Install with `Chocolatey`:
+
+* [`chocolatey/packages/notable`](https://chocolatey.org/packages/notable)
+
+*NOTE: Requires **`chocolatey`** to be installed.*
 
 ```powershell
 # Run from an elevated (administrator) command prompt
 choco install notable -y
 ```
 
+<br />
 
 ----
 
