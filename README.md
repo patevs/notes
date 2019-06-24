@@ -1,7 +1,7 @@
 
 # Notes
 
-> Source repository containing notes on various topics I am studying or am interested in.
+> Notable notes on various topics of development.
 
 ---
 
