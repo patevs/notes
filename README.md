@@ -36,7 +36,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ## Python
 
 * [Basics](https://github.com/patevs/til/blob/master/python/python-basics.md)
-* [Environment](https://github.com/patevs/til/blob/master/python/python-basics.md)
+* [Environment](https://github.com/patevs/til/blob/master/python/python-environment.md)
 
 ---
 
