@@ -12,6 +12,8 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 * [Android](https://github.com/patevs/til#android)
 * [Bash](https://github.com/patevs/til#bash)
 * [Flutter](https://github.com/patevs/til#flutter)
+* [Scala](https://github.com/patevs/til#scala)
+* [Python](https://github.com/patevs/til#python)
 
 ---
 
@@ -26,6 +28,15 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ## Flutter
 
 * [Basics](https://github.com/patevs/til/blob/master/flutter/flutter-basics.md)
+
+## Scala
+
+* [Basics](https://github.com/patevs/til/blob/master/scala/scala-basics.md)
+
+## Python
+
+* [Basics](https://github.com/patevs/til/blob/master/python/python-basics.md)
+* [Environment](https://github.com/patevs/til/blob/master/python/python-basics.md)
 
 ---
 
