@@ -1,5 +1,5 @@
 
-# Notes
+# TIL
 
 > This is a collection of short articles and notes about things I have learned mostly pertaining to various topics of software development.
 
@@ -9,13 +9,13 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ## Categories
 
-* [Bash](https://github.com/patevs/notes#bash)
+* [Bash](https://github.com/patevs/til#bash)
 
 ---
 
 ## Bash
 
-* [Basics](https://github.com/patevs/notes/blob/master/bash/bash-basics.md)
+* [Basics](https://github.com/patevs/til/blob/master/bash/bash-basics.md)
 
 ---
 
