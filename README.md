@@ -7,6 +7,18 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ---
 
+## Categories
+
+* [Bash](https://github.com/patevs/notes#bash)
+
+---
+
+## Bash
+
+* [Basics](https://github.com/patevs/notes/blob/master/bash/bash-basics.md)
+
+---
+
 ## Links & Resources
 
 * [`notable/notable`](https://github.com/notable/notable)
