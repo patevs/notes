@@ -11,6 +11,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 * [Android](https://github.com/patevs/til#android)
 * [Bash](https://github.com/patevs/til#bash)
+* [Electron](https://github.com/patevs/til#electron)
 * [Flutter](https://github.com/patevs/til#flutter)
 * [Scala](https://github.com/patevs/til#scala)
 * [Python](https://github.com/patevs/til#python)
@@ -24,6 +25,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ## Bash
 
 * [Basics](https://github.com/patevs/til/blob/master/bash/bash-basics.md)
+
+## Electron
+
+* [Basics](https://github.com/patevs/til/blob/master/electron/electron-basics.md)
 
 ## Flutter
 
