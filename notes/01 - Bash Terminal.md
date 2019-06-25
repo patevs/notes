@@ -5,7 +5,6 @@ created: '2019-03-16T02:05:42.906Z'
 modified: '2019-03-17T23:30:29.247Z'
 ---
 
-
 # 01 - Bash Terminal
 
 16/03/2019
@@ -14,7 +13,7 @@ modified: '2019-03-17T23:30:29.247Z'
 
 ----
 
-Git for Windows provides a BASH emulation used to run Git from the command line. 
+Git for Windows provides a BASH emulation used to run Git from the command line.
 
 Download git-for-windows: https://gitforwindows.org/
 
@@ -78,12 +77,4 @@ PROMPT_COMMAND='__posh_git_ps1 "\[\033[01;32m\]\h \[\033[00m\]: \[\033[01;34m\]\
 alias gs='git status'
 ```
 
-
 ----
-
-
-
-
-
-
-

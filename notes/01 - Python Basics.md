@@ -5,7 +5,6 @@ modified: '2019-03-17T23:31:42.562Z'
 tags: [Notebooks/Python, Python]
 ---
 
-
 # 01 - Python Basics
 
 > 20/02/2019
@@ -36,8 +35,11 @@ Choose one of the following installation methods
   https://www.python.org/downloads/
 
 #### Chocolatey (Windows)
+
 *Note:* requires Chocolatey to be installed.
-  * [`python3 package`](https://chocolatey.org/packages/python)
+
+* [`python3 package`](https://chocolatey.org/packages/python)
+
   ```powershell
   # Run from an elevated (Administrator) command prompt
   choco install python -y
@@ -56,4 +58,3 @@ python -h
 ```
 
 ----
-

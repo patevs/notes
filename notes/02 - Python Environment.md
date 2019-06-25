@@ -14,5 +14,4 @@ How to manage your python environment.
 * https://docs.python-guide.org/dev/virtualenvs/
 * https://docs.python.org/3/tutorial/venv.html
 
-
 ----

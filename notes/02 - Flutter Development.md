@@ -33,16 +33,19 @@ This command checks your environment and displays a report of the status of your
 ## Basic Commands
 
 Display devices connected to your system:
+
 ```cmd
 flutter devices
 ```
 
 Create a new flutter project:
+
 ```cmd
 flutter create <PROJECT_NAME>
 ```
 
 Run a flutter application (from within project root directory):
+
 ```cmd
 flutter run
 ```
@@ -70,4 +73,3 @@ void main() {
 
 <br />
 <br />
-

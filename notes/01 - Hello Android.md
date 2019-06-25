@@ -13,7 +13,7 @@ Developed by Google, [**`Android`**](https://en.wikipedia.org/wiki/Android_(oper
 
 ----
 
-To get started with Android development begin downloading and installing the [Android Studio](https://developer.android.com/studio/) **`IDE`** (**I**nteractive **D**evelopment **E**nvironment) which includes tools for developing applications on any Android platform. 
+To get started with Android development begin downloading and installing the [Android Studio](https://developer.android.com/studio/) **`IDE`** (**I**nteractive **D**evelopment **E**nvironment) which includes tools for developing applications on any Android platform.
 
 [Android Studio Downloads](https://developer.android.com/studio/#downloads)
 
