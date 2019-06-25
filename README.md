@@ -11,6 +11,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 * [Android](https://github.com/patevs/til#android)
 * [Bash](https://github.com/patevs/til#bash)
+* [Flutter](https://github.com/patevs/til#flutter)
 
 ---
 
@@ -21,6 +22,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ## Bash
 
 * [Basics](https://github.com/patevs/til/blob/master/bash/bash-basics.md)
+
+## Flutter
+
+* [Basics](https://github.com/patevs/til/blob/master/flutter/flutter-basics.md)
 
 ---
 
