@@ -1,7 +1,9 @@
 
 # Notes
 
-> Notable notes on various topics of development.
+> This is a collection of short articles and notes about things I have learned mostly pertaining to various topics of software development.
+
+I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ---
 
