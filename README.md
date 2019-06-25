@@ -9,9 +9,14 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ## Categories
 
+* [Android](https://github.com/patevs/til#android)
 * [Bash](https://github.com/patevs/til#bash)
 
 ---
+
+## Android
+
+* [Basics](https://github.com/patevs/til/blob/master/android/android-basics.md)
 
 ## Bash
 
