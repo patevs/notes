@@ -54,6 +54,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ## PowerShell
 
 * [Basics](https://github.com/patevs/til/blob/master/powershell/powershell-basics.md)
+* [Unicode Support](https://github.com/patevs/til/blob/master/powershell/unicode-support.md)
 
 ## Python
 
