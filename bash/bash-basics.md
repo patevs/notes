@@ -15,7 +15,7 @@ modified: '2019-06-26'
 
 Git for Windows provides a BASH emulation used to run Git from the command line.
 
-Download git-for-windows: https://gitforwindows.org/
+Download git-for-windows: [Here](https://gitforwindows.org/)
 
 Update git-for-windows using the following command:
 
@@ -27,11 +27,12 @@ git update-git-for-windows
 
 ## Links & Resources
 
-* [`bobthecow/git-flow-completion`](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
-
-* [`lyze/posh-git-sh`](https://github.com/lyze/posh-git-sh)
-
-* [Customize bash prompt](https://www.howtogeek.com/307701/how-to-customize-and-colorize-your-bash-prompt/)
+- [Bash Website](https://www.gnu.org/software/bash/)
+- [`bash-it`](https://github.com/Bash-it/bash-it)
+- [`bash-powerline`](https://github.com/riobard/bash-powerline)
+- [`bobthecow/git-flow-completion`](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
+- [`lyze/posh-git-sh`](https://github.com/lyze/posh-git-sh)
+- [Customize bash prompt](https://www.howtogeek.com/307701/how-to-customize-and-colorize-your-bash-prompt/)
 
 ----
 
