@@ -83,6 +83,7 @@ Configuration file location: `%APPDATA%\beets\config.yaml`
 
 - `beet config -p` to find config file location.
 - `beet config -e` to open config file in text editor.
+  - Note: `%EDITOR%` environment variable must be set.
 
 ### Plugins
 
