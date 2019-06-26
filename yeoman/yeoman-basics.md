@@ -1,16 +1,19 @@
-# Development Notes
 
-> 25/06/2019
+# Yeoman Basics
+
+> Yeoman is an open source client-side scaffolding tool for web applications. Yeoman runs as a command-line interface written for Node.js and combines several functions into one place, such as generating a starter template, managing dependencies, running unit tests, providing a local development server, and optimizing production code for deployment.
+
+- [yeoman.io](https://yeoman.io/)
 
 ---
 
-## Libraries & Packages
+## Links & Resources
 
-Yeoman CLI:
+### Yeoman CLI
 
 - [`yo`](https://www.npmjs.com/package/yo)
 
-Generators:
+### Generators
 
 - [`webapp`](https://www.npmjs.com/package/generator-webapp)
 - [`html5`](https://www.npmjs.com/package/generator-h5bp)

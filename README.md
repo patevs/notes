@@ -18,6 +18,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 * [Scala](https://github.com/patevs/til#scala)
 * [PowerShell](https://github.com/patevs/til#powershell)
 * [Python](https://github.com/patevs/til#python)
+* [Yeoman](https://github.com/patevs/til#yeoman)
 
 ---
 
@@ -58,6 +59,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 * [Basics](https://github.com/patevs/til/blob/master/python/python-basics.md)
 * [Environment](https://github.com/patevs/til/blob/master/python/python-environment.md)
+
+## Yeoman
+
+* [Basics](https://github.com/patevs/til/blob/master/yeoman/yeoman-basics.md)
 
 ---
 
