@@ -13,6 +13,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 * [Bash](https://github.com/patevs/til#bash)
 * [Electron](https://github.com/patevs/til#electron)
 * [Flutter](https://github.com/patevs/til#flutter)
+* [Music](https://github.com/patevs/til#music)
 * [Scala](https://github.com/patevs/til#scala)
 * [Python](https://github.com/patevs/til#python)
 
@@ -33,6 +34,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ## Flutter
 
 * [Basics](https://github.com/patevs/til/blob/master/flutter/flutter-basics.md)
+
+## Music
+
+* [mps-youtube](https://github.com/patevs/til/blob/master/music/mpsyt.md)
 
 ## Scala
 
