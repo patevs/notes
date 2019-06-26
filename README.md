@@ -38,6 +38,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ## Music
 
 * [mps-youtube](https://github.com/patevs/til/blob/master/music/mpsyt.md)
+* [beets](https://github.com/patevs/til/blob/master/music/beets.md)
 
 ## Scala
 

@@ -1,7 +1,11 @@
 
 # mps-youtube
 
+> Terminal based YouTube player and downloader.
+
 - [`mps-youtube`](https://github.com/mps-youtube/mps-youtube)
+
+---
 
 ## Install & Setup
 
