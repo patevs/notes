@@ -15,6 +15,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 * [Flutter](https://github.com/patevs/til#flutter)
 * [Music](https://github.com/patevs/til#music)
 * [Scala](https://github.com/patevs/til#scala)
+* [PowerShell](https://github.com/patevs/til#powershell)
 * [Python](https://github.com/patevs/til#python)
 
 ---
@@ -43,6 +44,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ## Scala
 
 * [Basics](https://github.com/patevs/til/blob/master/scala/scala-basics.md)
+
+## PowerShell
+
+* [Basics](https://github.com/patevs/til/blob/master/powershell/powershell-basics.md)
 
 ## Python
 
