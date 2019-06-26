@@ -14,6 +14,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 * [Electron](https://github.com/patevs/til#electron)
 * [Flutter](https://github.com/patevs/til#flutter)
 * [Music](https://github.com/patevs/til#music)
+* [Rainmeter](https://github.com/patevs/til#rainmeter)
 * [Scala](https://github.com/patevs/til#scala)
 * [PowerShell](https://github.com/patevs/til#powershell)
 * [Python](https://github.com/patevs/til#python)
@@ -40,6 +41,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 * [mps-youtube](https://github.com/patevs/til/blob/master/music/mpsyt.md)
 * [beets](https://github.com/patevs/til/blob/master/music/beets.md)
+
+## Rainmeter
+
+* [Basics](https://github.com/patevs/til/blob/master/rainmeter/rainmeter-basics.md)
 
 ## Scala
 
