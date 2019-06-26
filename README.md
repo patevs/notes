@@ -14,6 +14,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Flutter](https://github.com/patevs/til#flutter)
 - [Hyper](https://github.com/patevs/til#hyper)
 - [Music](https://github.com/patevs/til#music)
+- [NodeJS](https://github.com/patevs/til#nodejs)
 - [Rainmeter](https://github.com/patevs/til#rainmeter)
 - [Scala](https://github.com/patevs/til#scala)
 - [PowerShell](https://github.com/patevs/til#powershell)
@@ -46,6 +47,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 - [mps-youtube](https://github.com/patevs/til/blob/master/music/mpsyt.md)
 - [beets](https://github.com/patevs/til/blob/master/music/beets.md)
+
+## NodeJS
+
+- [Basics](https://github.com/patevs/til/blob/master/nodejs/node-basics.md)
 
 ## Rainmeter
 
