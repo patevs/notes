@@ -13,6 +13,15 @@
 
 - [`yo`](https://www.npmjs.com/package/yo)
 
+Installation:
+
+```bash
+# Install
+$ npm install --global yo
+# Usage
+$ yo doctor
+```
+
 ### Generators
 
 - [`webapp`](https://www.npmjs.com/package/generator-webapp)

@@ -11,6 +11,12 @@
 - [PowerShell Customization](https://hodgkins.io/ultimate-powershell-prompt-and-git-setup)
 - [`posh-git`](https://github.com/dahlbyk/posh-git)
 
+[]()
+
+- [Enable Additional Fonts](https://www.howtogeek.com/howto/windows-vista/stupid-geek-tricks-enable-more-fonts-for-the-windows-command-prompt/)
+- [Emojis in PowerShell](https://artofshell.com/2016/04/emojis-in-powershell-yes/)
+- [Emojis Module](https://www.powershellgallery.com/packages/Emojis/0.1)
+
 ---
 
 ## Create the PowerShell Profile
