@@ -26,54 +26,54 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ## Android
 
-- [Basics](https://github.com/patevs/notes/blob/master/android/android-basics.md)
+- [Android development basics](https://github.com/patevs/notes/blob/master/android/android-basics.md)
 
 ## Bash
 
-- [Basics](https://github.com/patevs/notes/blob/master/bash/bash-basics.md)
+- [Introduction to Bash](https://github.com/patevs/notes/blob/master/bash/bash-basics.md)
 
 ## Electron
 
-- [Basics](https://github.com/patevs/notes/blob/master/electron/electron-basics.md)
+- [Electron development basics](https://github.com/patevs/notes/blob/master/electron/electron-basics.md)
 
 ## Flutter
 
-- [Basics](https://github.com/patevs/notes/blob/master/flutter/flutter-basics.md)
+- [Flutter development basics](https://github.com/patevs/notes/blob/master/flutter/flutter-basics.md)
 
 ## Hyper
 
-- [Basics](https://github.com/patevs/notes/blob/master/hyper/hyper-basics.md)
+- [Hyper terminal install and setup](https://github.com/patevs/notes/blob/master/hyper/hyper-basics.md)
 
 ## Music
 
-- [mps-youtube](https://github.com/patevs/notes/blob/master/music/mpsyt.md)
-- [beets](https://github.com/patevs/notes/blob/master/music/beets.md)
+- [mps-youtube install and setup](https://github.com/patevs/notes/blob/master/music/mpsyt.md)
+- [beets install and setup](https://github.com/patevs/notes/blob/master/music/beets.md)
 
 ## NodeJS
 
-- [Basics](https://github.com/patevs/notes/blob/master/nodejs/node-basics.md)
+- [NodeJS links and resources](https://github.com/patevs/notes/blob/master/nodejs/node-basics.md)
 
 ## Rainmeter
 
-- [Basics](https://github.com/patevs/notes/blob/master/rainmeter/rainmeter-basics.md)
+- [Rainmeter install and setup](https://github.com/patevs/notes/blob/master/rainmeter/rainmeter-basics.md)
 
 ## Scala
 
-- [Basics](https://github.com/patevs/notes/blob/master/scala/scala-basics.md)
+- [Scala development basics](https://github.com/patevs/notes/blob/master/scala/scala-basics.md)
 
 ## PowerShell
 
-- [Customization](https://github.com/patevs/notes/blob/master/powershell/powershell-custom.md)
-- [Unicode Support](https://github.com/patevs/notes/blob/master/powershell/unicode-support.md)
+- [PowerShell prompt customization](https://github.com/patevs/notes/blob/master/powershell/powershell-custom.md)
+- [Unicode support in PowerShell](https://github.com/patevs/notes/blob/master/powershell/unicode-support.md)
 
 ## Python
 
-- [Basics](https://github.com/patevs/notes/blob/master/python/python-basics.md)
-- [Environment](https://github.com/patevs/notes/blob/master/python/python-environment.md)
+- [Python development basics](https://github.com/patevs/notes/blob/master/python/python-basics.md)
+- [Python environment management](https://github.com/patevs/notes/blob/master/python/python-environment.md)
 
 ## Yeoman
 
-- [Basics](https://github.com/patevs/notes/blob/master/yeoman/yeoman-basics.md)
+- [Introduction to Yeoman CLI](https://github.com/patevs/notes/blob/master/yeoman/yeoman-basics.md)
 
 ---
 

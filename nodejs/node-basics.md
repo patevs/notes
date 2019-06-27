@@ -12,6 +12,10 @@
 - [NPM](https://github.com/sindresorhus/awesome-npm)
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 
+### Articles
+
+- [7 Most Used JS Topics](https://codeburst.io/the-7-most-used-javascript-topics-you-should-know-bd242aca41a0)
+
 ---
 
 ## Libraries & Packages
