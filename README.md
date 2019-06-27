@@ -53,6 +53,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### NodeJS
 
 - [NodeJS links and resources](https://github.com/patevs/notes/blob/master/nodejs/node-basics.md)
+- [Creating a NodeJS WebScrapper](https://github.com/patevs/notes/blob/master/nodejs/node-web-scrapper.md)
 
 ### NPM
 
