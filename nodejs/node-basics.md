@@ -20,6 +20,10 @@
 
 ## Libraries & Packages
 
+Dashboard:
+
+- [`nodejs-dashboard`](https://github.com/FormidableLabs/nodejs-dashboard)
+
 Readme Generator:
 
 - [`readme-md-generator`](https://github.com/kefranabg/readme-md-generator)
@@ -38,6 +42,8 @@ WebDriver Automation:
 - [`simplecrawler`](https://github.com/simplecrawler/simplecrawler)
 
 - [`x-ray`](https://github.com/matthewmueller/x-ray)
+
+- [`node-crawler`](https://github.com/bda-research/node-crawler)
 
 CLI Interaction:
 
