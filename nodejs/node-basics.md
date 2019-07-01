@@ -45,6 +45,10 @@ WebDriver Automation:
 
 - [`node-crawler`](https://github.com/bda-research/node-crawler)
 
+Terminal Interface:
+
+- [`blessed`](https://github.com/chjj/blessed)
+
 CLI Interaction:
 
 - [`meow`](https://github.com/sindresorhus/meow)
