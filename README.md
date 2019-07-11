@@ -11,6 +11,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 - [Android](https://github.com/patevs/notes#android)
 - [Bash](https://github.com/patevs/notes#bash)
+- [Batch](https://github.com/patevs/notes#batch)
 - [Electron](https://github.com/patevs/notes#electron)
 - [Flutter](https://github.com/patevs/notes#flutter)
 - [Hyper](https://github.com/patevs/notes#hyper)
@@ -32,6 +33,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### Bash
 
 - [Introduction to Bash](https://github.com/patevs/notes/blob/master/bash/bash-basics.md)
+
+### Batch
+
+- [Introduction to Batch Scripting](https://github.com/patevs/notes/blob/master/batch/batch-basics.md)
 
 ### Electron
 
