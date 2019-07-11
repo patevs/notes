@@ -12,10 +12,16 @@
 
 ---
 
-## Create Empty File
+## Create an empty file
 
 ```cmd
 echo NUL > empty-file.txt
+```
+
+## Delete a file
+
+```cmd
+del empty-file.txt
 ```
 
 ---
