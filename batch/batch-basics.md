@@ -11,3 +11,11 @@
 - [Guide to Batch Scripting](http://steve-jansen.github.io/guides/windows-batch-scripting/)
 
 ---
+
+## Create Empty File
+
+```cmd
+echo NUL > empty-file.txt
+```
+
+---
