@@ -83,7 +83,7 @@ Or install with `pip`:
     # Set configuartion
     $ set order views
     $ set columns user:14 date rating views likes dislikes category:9
-    $ set api_key AIzaSyC0tF7MUWtVaGEnxQWOOjHSGA_Ty_nE9go
+    $ set api_key AIzaSyBQKmHt0Gm0-i12JEp0W-kN-gFOF_cfX1c
     ```
 
 Issues with provided API key:
