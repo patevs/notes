@@ -82,8 +82,13 @@ Or install with `pip`:
     $ mpsyt
     # Set configuartion
     $ set order views
-    $ set columns date rating views likes dislikes category:9
-    # $ user:14 comments
+    $ set columns user:14 date rating views likes dislikes category:9
+    $ set api_key AIzaSyC0tF7MUWtVaGEnxQWOOjHSGA_Ty_nE9go
     ```
+
+Issues with provided API key:
+
+- [`issues/551`](https://github.com/mps-youtube/mps-youtube/issues/551)
+- [`issues/970`](https://github.com/mps-youtube/mps-youtube/issues/970)
 
 ---
