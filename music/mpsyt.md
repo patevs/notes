@@ -56,7 +56,7 @@ Or install with `pip`:
 4. Install required dependencies
 
     ```sh
-    # Install colorama (options)
+    # Install colorama (optional)
     $ python -m pip install colorama
     # Install youtube-dl
     $ python -m pip install youtube_dl
