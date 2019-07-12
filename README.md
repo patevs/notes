@@ -1,4 +1,3 @@
-
 # Notes
 
 > This is a collection of short articles and notes about things I have learned mostly pertaining to various topics of software development.
@@ -10,6 +9,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ## Categories
 
 - [Android](https://github.com/patevs/notes#android)
+- [CLI](https://github.com/patevs/notes#cli)
 - [Bash](https://github.com/patevs/notes#bash)
 - [Batch](https://github.com/patevs/notes#batch)
 - [Electron](https://github.com/patevs/notes#electron)
@@ -29,6 +29,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### Android
 
 - [Android development basics](https://github.com/patevs/notes/blob/master/android/android-basics.md)
+
+### CLI
+
+- [Awesome CLI apps](https://github.com/patevs/notes/blob/master/cli/cli-apps.md)
 
 ### Bash
 
