@@ -31,18 +31,6 @@ Bookmarks:
 
 - [`buku`](https://github.com/jarun/Buku)
 
-System information:
-
-- [`glances`](https://github.com/nicolargo/glances)
-
-Check presence of tools:
-
-- [`has`](https://github.com/kdabir/has)
-
-Horizontal rule:
-
-- [`hr`](https://github.com/LuRsT/hr)
-
 Static deployments:
 
 - [`surge`](https://surge.sh/)
@@ -54,5 +42,20 @@ Development utilities:
 - [`brightness-cli`](https://github.com/kevva/brightness-cli)
 - [`deviceframe`](https://github.com/c0bra/deviceframe)
 - [`viewport-list-cli`](https://github.com/kevva/viewport-list-cli)
+- [`carbon-now-cli`](https://github.com/mixn/carbon-now-cli)
+- [`david`](https://github.com/alanshaw/david)
+- [`jsome`](https://github.com/Javascipt/Jsome)
+
+System information:
+
+- [`glances`](https://github.com/nicolargo/glances)
+
+Check presence of tools:
+
+- [`has`](https://github.com/kdabir/has)
+
+Horizontal rule:
+
+- [`hr`](https://github.com/LuRsT/hr)
 
 ---
