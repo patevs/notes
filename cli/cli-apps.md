@@ -45,6 +45,9 @@ Development utilities:
 - [`carbon-now-cli`](https://github.com/mixn/carbon-now-cli)
 - [`david`](https://github.com/alanshaw/david)
 - [`jsome`](https://github.com/Javascipt/Jsome)
+- [`faker-cli`](https://github.com/lestoni/faker-cli)
+- [`node-semver`](https://github.com/npm/node-semver)
+- [`ipify-cli`](https://github.com/sindresorhus/ipify-cli)
 
 System information:
 
