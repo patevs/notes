@@ -20,6 +20,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [NPM](https://github.com/patevs/notes#npm)
 - [Rainmeter](https://github.com/patevs/notes#rainmeter)
 - [Scala](https://github.com/patevs/notes#scala)
+- [TypeScript](https://github.com/patevs/notes#typescript)
 - [PowerShell](https://github.com/patevs/notes#powershell)
 - [Python](https://github.com/patevs/notes#python)
 - [Yeoman](https://github.com/patevs/notes#yeoman)
@@ -76,6 +77,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### Scala
 
 - [Scala development basics](https://github.com/patevs/notes/blob/master/scala/scala-basics.md)
+
+### TypeScript
+
+- [TypeScript development basics](https://github.com/patevs/notes/blob/master/typescript/typescript-basics.md)
 
 ### PowerShell
 
