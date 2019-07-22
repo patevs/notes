@@ -81,6 +81,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### TypeScript
 
 - [TypeScript development basics](https://github.com/patevs/notes/blob/master/typescript/typescript-basics.md)
+- [TypeScript NodeJS setup](https://github.com/patevs/notes/blob/master/typescript/typescript-node.md)
 
 ### PowerShell
 
