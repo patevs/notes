@@ -1,6 +1,6 @@
 # Awesome CLI Apps
 
-> 19/07/2019
+> 23/07/2019
 
 ---
 
@@ -31,11 +31,11 @@ Bookmarks:
 
 - [`buku`](https://github.com/jarun/Buku)
 
-Static deployments:
+Static Deployments:
 
 - [`surge`](https://surge.sh/)
 
-Development utilities:
+Development Utilities:
 
 - [`ImageScraper`](https://github.com/sananth12/ImageScraper)
 - [`screensaver`](https://github.com/gillstrom/screensaver)
@@ -49,16 +49,13 @@ Development utilities:
 - [`node-semver`](https://github.com/npm/node-semver)
 - [`ipify-cli`](https://github.com/sindresorhus/ipify-cli)
 
-System information:
+Git Utilities:
+
+- [`joe`](https://github.com/karan/joe)
+- [`add-gitignore`](https://github.com/TejasQ/add-gitignore)
+
+System Information:
 
 - [`glances`](https://github.com/nicolargo/glances)
-
-Check presence of tools:
-
-- [`has`](https://github.com/kdabir/has)
-
-Horizontal rule:
-
-- [`hr`](https://github.com/LuRsT/hr)
 
 ---
