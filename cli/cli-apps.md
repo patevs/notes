@@ -54,7 +54,9 @@ NodeJS Utilities
 
 TypeScript Utilities:
 
+- [`typescript-starter`](https://github.com/bitjson/typescript-starter)
 - [`typed-install`](https://github.com/xavdid/typed-install)
+- [`typesync`](https://github.com/jeffijoe/typesync)
 
 Git Utilities:
 
