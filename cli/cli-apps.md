@@ -43,11 +43,18 @@ Development Utilities:
 - [`deviceframe`](https://github.com/c0bra/deviceframe)
 - [`viewport-list-cli`](https://github.com/kevva/viewport-list-cli)
 - [`carbon-now-cli`](https://github.com/mixn/carbon-now-cli)
-- [`david`](https://github.com/alanshaw/david)
 - [`jsome`](https://github.com/Javascipt/Jsome)
 - [`faker-cli`](https://github.com/lestoni/faker-cli)
-- [`node-semver`](https://github.com/npm/node-semver)
 - [`ipify-cli`](https://github.com/sindresorhus/ipify-cli)
+
+NodeJS Utilities
+
+- [`node-semver`](https://github.com/npm/node-semver)
+- [`david`](https://github.com/alanshaw/david)
+
+TypeScript Utilities:
+
+- [`typed-install`](https://github.com/xavdid/typed-install)
 
 Git Utilities:
 
