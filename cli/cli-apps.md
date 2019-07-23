@@ -34,6 +34,7 @@ Bookmarks:
 Static Deployments:
 
 - [`surge`](https://surge.sh/)
+- [`now-cli`](https://github.com/zeit/now-cli)
 
 Development Utilities:
 
@@ -46,11 +47,14 @@ Development Utilities:
 - [`jsome`](https://github.com/Javascipt/Jsome)
 - [`faker-cli`](https://github.com/lestoni/faker-cli)
 - [`ipify-cli`](https://github.com/sindresorhus/ipify-cli)
+- [`tldr`](https://github.com/tldr-pages/tldr)
 
 NodeJS Utilities
 
 - [`node-semver`](https://github.com/npm/node-semver)
 - [`david`](https://github.com/alanshaw/david)
+- [`np`](https://github.com/sindresorhus/np)
+- [`ndb`](https://github.com/GoogleChromeLabs/ndb)
 
 TypeScript Utilities:
 
