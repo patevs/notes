@@ -38,6 +38,7 @@ Static Deployments:
 
 Development Utilities:
 
+- [`pageres`](https://github.com/sindresorhus/pageres)
 - [`ImageScraper`](https://github.com/sananth12/ImageScraper)
 - [`screensaver`](https://github.com/gillstrom/screensaver)
 - [`brightness-cli`](https://github.com/kevva/brightness-cli)
