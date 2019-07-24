@@ -66,6 +66,7 @@ Git Utilities:
 
 - [`joe`](https://github.com/karan/joe)
 - [`add-gitignore`](https://github.com/TejasQ/add-gitignore)
+- [`git-labelmaker`](https://github.com/himynameisdave/git-labelmaker)
 
 System Information:
 
