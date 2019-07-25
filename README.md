@@ -14,6 +14,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Batch](https://github.com/patevs/notes#batch)
 - [Electron](https://github.com/patevs/notes#electron)
 - [Flutter](https://github.com/patevs/notes#flutter)
+- [GitHub](https://github.com/patevs/notes#github)
 - [Hyper](https://github.com/patevs/notes#hyper)
 - [Music](https://github.com/patevs/notes#music)
 - [NodeJS](https://github.com/patevs/notes#nodejs)
@@ -50,6 +51,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### Flutter
 
 - [Flutter development basics](https://github.com/patevs/notes/blob/master/flutter/flutter-basics.md)
+
+### GitHub
+
+- [GitHub pull-request & merge](https://github.com/patevs/notes/blob/master/github/github-pull.md)
 
 ### Hyper
 
