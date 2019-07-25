@@ -24,7 +24,7 @@ Merge a pull request:
 
 ```sh
 $ hub merge https://github.com/jingweno/gh/pull/73
-# Merge pull request number 73 
+# Merge pull request number 73
 ```
 
 ---
