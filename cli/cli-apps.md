@@ -1,6 +1,6 @@
 # Awesome CLI Apps
 
-> 23/07/2019
+> 28/07/2019
 
 ---
 
@@ -36,18 +36,23 @@ Static Deployments:
 - [`surge`](https://surge.sh/)
 - [`now-cli`](https://github.com/zeit/now-cli)
 
-Development Utilities:
+System Utilities:
 
-- [`pageres`](https://github.com/sindresorhus/pageres)
-- [`ImageScraper`](https://github.com/sananth12/ImageScraper)
+- [`ipify-cli`](https://github.com/sindresorhus/ipify-cli)
 - [`screensaver`](https://github.com/gillstrom/screensaver)
 - [`brightness-cli`](https://github.com/kevva/brightness-cli)
+- [`glances`](https://github.com/nicolargo/glances)
+
+Development Utilities:
+
+- [`sharkdp/bat`](https://github.com/sharkdp/bat)
+- [`pageres`](https://github.com/sindresorhus/pageres)
+- [`ImageScraper`](https://github.com/sananth12/ImageScraper)
 - [`deviceframe`](https://github.com/c0bra/deviceframe)
 - [`viewport-list-cli`](https://github.com/kevva/viewport-list-cli)
 - [`carbon-now-cli`](https://github.com/mixn/carbon-now-cli)
 - [`jsome`](https://github.com/Javascipt/Jsome)
 - [`faker-cli`](https://github.com/lestoni/faker-cli)
-- [`ipify-cli`](https://github.com/sindresorhus/ipify-cli)
 - [`tldr`](https://github.com/tldr-pages/tldr)
 
 NodeJS Utilities
@@ -68,9 +73,5 @@ Git Utilities:
 - [`joe`](https://github.com/karan/joe)
 - [`add-gitignore`](https://github.com/TejasQ/add-gitignore)
 - [`git-labelmaker`](https://github.com/himynameisdave/git-labelmaker)
-
-System Information:
-
-- [`glances`](https://github.com/nicolargo/glances)
 
 ---
