@@ -82,6 +82,7 @@ Or install with `pip`:
    # Set configuartion
    $ set order views
    $ set encoder 3
+   $ set audio_format m4a
    $ set columns user:14 date rating views likes dislikes category:9
    $ set api_key AIzaSyBQKmHt0Gm0-i12JEp0W-kN-gFOF_cfX1c
    ```
