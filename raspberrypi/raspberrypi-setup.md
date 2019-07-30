@@ -33,6 +33,7 @@ Tools:
 - [Installing OS Images](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
   - [NOOBS Install](https://www.raspberrypi.org/documentation/installation/noobs.md)
   - [Ubuntu Server Install](https://ubuntu.com/download/iot/raspberry-pi-2-3)
+  - [Create Installation Media](https://ubuntu.com/download/iot/installation-media)
 - [Installing with Windows](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md)
 
 ### How to Automatically Install an OS
