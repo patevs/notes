@@ -82,7 +82,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 ### Raspberry-Pi
 
-- [Raspberry Pi setup](https://github.com/patevs/notes/blob/master/raspberrypi-setup/.md)
+- [Raspberry Pi setup](https://github.com/patevs/notes/blob/master/raspberrypi-setup.md)
 
 ### Scala
 
