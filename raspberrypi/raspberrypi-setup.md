@@ -19,6 +19,7 @@ Documentation:
 
 - [NOOBS Documentation](https://github.com/raspberrypi/noobs/blob/master/README.md)
 - [Raspbian Documenation](http://raspbian.org/)
+- [Troubleshooting Guide](https://www.raspberrypi.org/learning/troubleshooting-guide/)
 
 Tools:
 
