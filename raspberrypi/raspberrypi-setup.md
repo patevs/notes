@@ -33,6 +33,18 @@ Tools:
   - [NOOBS Installation](https://www.raspberrypi.org/documentation/installation/noobs.md)
 - [Installing with Windows](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md)
 
+### How to Automatically Install an OS
+
+Even if you are using your Pi without a display, you can still use NOOBS to easily install an OS of your choice. To set up NOOBS to automatically and silently (i.e. without requiring any user input) install a specific OS, follow these steps:
+
+1. Copy the OS folder for the OS you want to install into the `/os` dir (or alternatively delete all other OSes contained in the `/os` dir so that only your chosen OS remains.
+
+2. If the OS you want to automatically install has multiple flavours available, edit the `flavours.json` file so that it only contains the flavour entry that you want to install.
+
+3. Edit the `recovery.cmdline` file in the root NOOBS directory and append `silentinstall` to the arguments list.
+
+When you now boot your Pi using an SD card containing the modified version of NOOBS that you just created, it will automatically install the OS you chose and boot into it after the installation has finished.
+
 ---
 
 ## Configuration
