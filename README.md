@@ -20,6 +20,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [NodeJS](https://github.com/patevs/notes#nodejs)
 - [NPM](https://github.com/patevs/notes#npm)
 - [Rainmeter](https://github.com/patevs/notes#rainmeter)
+- [Raspberry Pi](https://github.com/patevs/notes#raspberrypi)
 - [Scala](https://github.com/patevs/notes#scala)
 - [TypeScript](https://github.com/patevs/notes#typescript)
 - [PowerShell](https://github.com/patevs/notes#powershell)
@@ -78,6 +79,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### Rainmeter
 
 - [Rainmeter install and setup](https://github.com/patevs/notes/blob/master/rainmeter/rainmeter-basics.md)
+
+### Raspberry Pi
+
+- [Raspberry Pi setup](https://github.com/patevs/notes/blob/master/raspberrypi-setup/.md)
 
 ### Scala
 
