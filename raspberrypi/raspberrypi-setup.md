@@ -25,6 +25,7 @@ Tools:
 
 - [SD Memory Card Formatter](https://chocolatey.org/packages/sdformatter)
 - [balenaEtcher](https://chocolatey.org/packages/etcher)
+- [Win32DiskImager](https://chocolatey.org/packages/win32diskimager.install)
 
 ---
 
