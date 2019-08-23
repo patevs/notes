@@ -13,6 +13,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Bash](https://github.com/patevs/notes#bash)
 - [Batch](https://github.com/patevs/notes#batch)
 - [Electron](https://github.com/patevs/notes#electron)
+- [Favicon](https://github.com/patevs/notes#favicon)
 - [Flutter](https://github.com/patevs/notes#flutter)
 - [GitHub](https://github.com/patevs/notes#github)
 - [Hyper](https://github.com/patevs/notes#hyper)
@@ -48,6 +49,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### Electron
 
 - [Electron development basics](https://github.com/patevs/notes/blob/master/electron/electron-basics.md)
+
+### Favicon
+
+- [Favicon Generator](https://github.com/patevs/notes/blob/master/favicon/favicon-generator.md)
 
 ### Flutter
 
