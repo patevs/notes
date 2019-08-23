@@ -1,6 +1,6 @@
 # Favicon Generator
 
-> How to generator a favicon.ico from png images using ImageMagick.
+> How to generator a favicon.ico from png files using ImageMagick.
 
 ---
 
@@ -15,7 +15,7 @@
 2. Convert `.png` files to `.ico`
 
     ```cmd
-    convert favicon-16.png favicon-32.png favicon.ico
+    magick convert favicon-16.png favicon-32.png favicon.ico
     ```
 
 ---
