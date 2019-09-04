@@ -26,6 +26,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [TypeScript](https://github.com/patevs/notes#typescript)
 - [PowerShell](https://github.com/patevs/notes#powershell)
 - [Python](https://github.com/patevs/notes#python)
+- [WSL](https://github.com/patevs/notes#wsl)
 - [Yeoman](https://github.com/patevs/notes#yeoman)
 
 ---
@@ -107,6 +108,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 - [Python development basics](https://github.com/patevs/notes/blob/master/python/python-basics.md)
 - [Python environment management](https://github.com/patevs/notes/blob/master/python/python-environment.md)
+
+### WSL
+
+- [Introduction to Windows Subsystem for Linuz](https://github.com/patevs/notes/blob/master/wsl/wsl-basics.md)
 
 ### Yeoman
 
