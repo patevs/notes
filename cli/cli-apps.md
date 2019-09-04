@@ -1,6 +1,6 @@
 # Awesome CLI Apps
 
-> 28/07/2019
+> 05/09/2019
 
 ---
 
@@ -42,6 +42,8 @@ System Utilities:
 - [`screensaver`](https://github.com/gillstrom/screensaver)
 - [`brightness-cli`](https://github.com/kevva/brightness-cli)
 - [`glances`](https://github.com/nicolargo/glances)
+- [`vtop`](https://github.com/MrRio/vtop)
+- [`wallpaper-cli`](https://github.com/sindresorhus/wallpaper-cli)
 
 Development Utilities:
 
