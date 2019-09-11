@@ -42,24 +42,16 @@ $ yo nm
 #### HTML/Frontend
 
 - [`webapp`](https://www.npmjs.com/package/generator-webapp)
-- [`html5`](https://www.npmjs.com/package/generator-h5bp)
+- [`h5bp` (html5)](https://www.npmjs.com/package/generator-h5bp)
 
 #### NodeJS
 
-- [`node`](https://www.npmjs.com/package/generator-node)
-- [`node-typescript`](https://www.npmjs.com/package/generator-node-typescript)
 - [`nm` (node module)](https://www.npmjs.com/package/generator-nm)
+- [`node`](https://www.npmjs.com/package/generator-node)
 
-#### JavaScript
+#### TypeScript
 
-- [`commonjs`](https://www.npmjs.com/package/generator-commonjs)
-- [`babel`](https://www.npmjs.com/package/generator-babel)
-- [`webpack-mini`](https://www.npmjs.com/package/generator-webpack-mini)
-
-#### CMD/PowerShell/Bash
-
-- [`cmdcli`](https://www.npmjs.com/package/generator-cmdcli)
-- [`psmodule`](https://www.npmjs.com/package/generator-psmodule)
-- [`bash`](https://www.npmjs.com/package/generator-bash)
+- [`node-typescript`](https://www.npmjs.com/package/generator-node-typescript)
+- [`typescript-starter`](https://www.npmjs.com/package/generator-typescript-starter)
 
 ---
