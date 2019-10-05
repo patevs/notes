@@ -15,6 +15,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Electron](https://github.com/patevs/notes#electron)
 - [Favicon](https://github.com/patevs/notes#favicon)
 - [Flutter](https://github.com/patevs/notes#flutter)
+- [Git](https://github.com/patevs/notes#git)
 - [GitHub](https://github.com/patevs/notes#github)
 - [Hyper](https://github.com/patevs/notes#hyper)
 - [Music](https://github.com/patevs/notes#music)
@@ -58,6 +59,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### Flutter
 
 - [Flutter development basics](https://github.com/patevs/notes/blob/master/flutter/flutter-basics.md)
+
+### Git
+
+- [Remove 'Git GUI Here' from context menu](https://github.com/patevs/notes/blob/master/git/git-context.md)
 
 ### GitHub
 
