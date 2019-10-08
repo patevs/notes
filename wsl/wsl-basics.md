@@ -55,6 +55,23 @@ Powershell
 
 ## ConEmu WSL Setup
 
-[bash on windows](https://conemu.github.io/en/BashOnWindows.html#TLDR)
+- [bash on windows](https://conemu.github.io/en/BashOnWindows.html#TLDR)
+
+Good places to start
+
+    https://msdn.microsoft.com/commandline/wsl/install_guide
+    https://msdn.microsoft.com/commandline/wsl/about
+
+#### TLDR: WSL Installation
+
+- ‘Settings’ -> ‘Update and Security’ -> ‘For developers’: Enable ‘Developer mode’
+- Reboot
+- ‘Administrator’s command prompt’ execute the following:
+
+`powershell -command Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
+
+- After another reboot, run in the ‘command prompt’ to install required files:
+
+`%windir%\system32\bash.exe`
 
 ---
