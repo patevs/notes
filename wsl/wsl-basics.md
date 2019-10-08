@@ -8,6 +8,8 @@
 - [install-manual](https://docs.microsoft.com/en-us/windows/wsl/install-manual)
 - [init-distro](https://docs.microsoft.com/en-us/windows/wsl/initialize-distro)
 
+https://docs.microsoft.com/en-us/windows/wsl/about?redirectedfrom=MSDN
+
 ---
 
 ## Install the Windows Subsystem for Linux
