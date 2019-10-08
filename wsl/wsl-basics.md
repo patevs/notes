@@ -35,7 +35,7 @@ To download distros using PowerShell, use the Invoke-WebRequest cmdlet. Here's a
 PowerShell
 
 ```powershell
-Invoke-WebRequest -Uri https://aka.ms/wsl-ubuntu-1804 -OutFile Ubuntu.appx -UseBasicParsing
+Invoke-WebRequest -Uri https://aka.ms/wsl-ubuntu-1804 -OutFile Ubuntu-1804.appx -UseBasicParsing
 ```
 
 Tip
