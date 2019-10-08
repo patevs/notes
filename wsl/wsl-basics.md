@@ -51,3 +51,5 @@ Powershell
 [](https://docs.microsoft.com/en-us/windows/wsl/initialize-distro)
 
 https://conemu.github.io/en/BashOnWindows.html#TLDR
+
+https://docs.microsoft.com/en-us/windows/wsl/reference
