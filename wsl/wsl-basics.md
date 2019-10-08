@@ -49,3 +49,5 @@ Powershell
 `Add-AppxPackage .\app_name.appx`
 
 [](https://docs.microsoft.com/en-us/windows/wsl/initialize-distro)
+
+https://conemu.github.io/en/BashOnWindows.html#TLDR
