@@ -9,3 +9,19 @@
 - [Remove msysgits menu options](https://stackoverflow.com/questions/2459763/how-do-i-remove-msysgits-right-click-menu-options)
 
 ---
+
+## Instructions
+
+Delete the following registry keys:
+
+
+```
+HKEY_CLASSES_ROOT\Directory\shell\git_gui
+HKEY_CLASSES_ROOT\Directory\shell\git_shell
+HKEY_CLASSES_ROOT\LibraryFolder\background\shell\git_gui
+HKEY_CLASSES_ROOT\LibraryFolder\background\shell\git_shell
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\background\shell\git_gui
+HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\background\shell\git_shell
+```
+
+---
