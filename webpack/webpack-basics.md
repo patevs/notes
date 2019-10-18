@@ -1,4 +1,8 @@
-# Webpack Introduction
+# Introduction to Webpack
+
+---
+
+## Links & Resources
 
 https://webpack.js.org/guides/getting-started/
 
