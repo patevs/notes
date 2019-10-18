@@ -1,6 +1,6 @@
 # Introduction to Webpack
 
-> Webpack
+> **Webpack** is a static module bundler for modern `JavaScript` applications. When webpack processes your application, it internally builds a dependency graph which maps every module your project needs and generates one or more bundles.
 
 [Website](https://webpack.js.org/)
 
@@ -8,6 +8,7 @@
 
 ## Links & Resources
 
+* [Documentation](https://webpack.js.org/concepts/)
 * [Getting Started](https://webpack.js.org/guides/getting-started/)
 * [Production Builds](https://webpack.js.org/guides/production/)
 
