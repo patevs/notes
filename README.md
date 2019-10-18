@@ -27,6 +27,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [TypeScript](https://github.com/patevs/notes#typescript)
 - [PowerShell](https://github.com/patevs/notes#powershell)
 - [Python](https://github.com/patevs/notes#python)
+- [Webpack](https://github.com/patevs/notes#webpack)
 - [WSL](https://github.com/patevs/notes#wsl)
 - [Yeoman](https://github.com/patevs/notes#yeoman)
 
@@ -113,6 +114,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 - [Python development basics](https://github.com/patevs/notes/blob/master/python/python-basics.md)
 - [Python environment management](https://github.com/patevs/notes/blob/master/python/python-environment.md)
+
+### Webpack
+
+- [Introduction to Webpack](https://github.com/patevs/notes/blob/master/webpack/webpack-basics.md)
 
 ### WSL
 
