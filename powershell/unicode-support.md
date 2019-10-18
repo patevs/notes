@@ -35,3 +35,7 @@ $ cmd /c "%ConEmuBaseDir%\Addons\utf-8-test.cmd"
 ```
 
 ---
+
+https://stackoverflow.com/questions/45624030/display-unicode-emoji-in-powershell
+
+https://stackoverflow.com/questions/49476326/displaying-unicode-in-powershell
