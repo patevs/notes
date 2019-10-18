@@ -10,4 +10,6 @@ https://github.com/patevs/UglifyJS2
 
 https://stackoverflow.com/questions/25956937/how-to-build-minified-and-uncompressed-bundle-with-webpack
 
+https://stackoverflow.com/questions/34239731/how-to-minimize-the-size-of-webpacks-bundle
+
 ---
