@@ -10,6 +10,7 @@
 
 * [Documentation](https://webpack.js.org/concepts/)
 * [Getting Started](https://webpack.js.org/guides/getting-started/)
+* [Installation](https://webpack.js.org/guides/installation/)
 * [Production Builds](https://webpack.js.org/guides/production/)
 
 https://medium.com/@qhwa_85848/minifying-with-webpack-ff25738e7cd3
