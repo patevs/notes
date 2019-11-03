@@ -61,6 +61,21 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 )
 ```
 
+In Neovim config file, use the following settings for vim-plug:
+
+```powershell
+call plug#begin('~/AppData/Local/nvim/plugged')
+" below are some vim plugin for demonstration purpose
+Plug 'joshdick/onedark.vim'
+Plug 'iCyMind/NeoSolarized'
+
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+call plug#end()
+```
+
+When you use `:PlugInstall`, all the plugins will be installed under `~/AppData/Local/nvim/plugged`. You can change this directory to where you want.
+
 ---
 
 ## Extensions & Plugins
