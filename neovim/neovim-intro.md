@@ -9,6 +9,7 @@
 ## Links & Resources
 
 * [`neovim/neovim`](https://github.com/neovim/neovim)
+* [`neovim/wiki`](https://github.com/neovim/neovim/wiki)
 * [Documentation](https://neovim.io/doc/)
 
 ---
