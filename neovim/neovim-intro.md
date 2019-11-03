@@ -133,7 +133,23 @@ Plug '~/my-prototype-plugin'
 call plug#end()
 ```
 
-#### Vim-Plug Basic Usage
+---
+
+## Python Provider Configuration
+
+Set python/python3 executable locations:
+
+let g:python_host_prog  = '/path/to/python'
+let g:python3_host_prog  = '/path/to/python3'
+
+Enable/Disable python/python3 support:
+
+let g:loaded_python_provider = 0
+let g:loaded_python3_provider = 0
+
+---
+
+## Vim-Plug Basic Usage
 
 ```vim
 " Check the status of plugins
