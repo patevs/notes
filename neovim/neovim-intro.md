@@ -23,3 +23,11 @@
 ```
 
 ---
+
+## Extensions & Plugins
+
+* [`awesome-vim`](https://github.com/akrawchyk/awesome-vim)
+* [`oh-my-vim`](https://github.com/liangxianzhe/oh-my-vim)
+* [`vim-galore`](https://github.com/mhinz/vim-galore)
+
+---
