@@ -14,7 +14,8 @@
 
 [](.)
 
-* [Neovim setup guide](https://jdhao.github.io/2018/12/24/centos_nvim_install_use_guide_en/)
+* [Neovim Setup Guide](https://jdhao.github.io/2018/12/24/centos_nvim_install_use_guide_en/)
+* [Neovim Configuration Windows](https://jdhao.github.io/2018/11/15/neovim_configuration_windows/)
 
 ---
 
