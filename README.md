@@ -19,6 +19,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [GitHub](https://github.com/patevs/notes#github)
 - [Hyper](https://github.com/patevs/notes#hyper)
 - [Music](https://github.com/patevs/notes#music)
+- [Neovim](https://github.com/patevs/notes#neovim)
 - [NodeJS](https://github.com/patevs/notes#nodejs)
 - [NPM](https://github.com/patevs/notes#npm)
 - [Rainmeter](https://github.com/patevs/notes#rainmeter)
@@ -77,6 +78,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 - [mps-youtube install and setup](https://github.com/patevs/notes/blob/master/music/mpsyt.md)
 - [beets install and setup](https://github.com/patevs/notes/blob/master/music/beets.md)
+
+### Neovim
+
+- [neovim install and setup](https://github.com/patevs/notes/blob/master/neovim/neovim-intro.md)
 
 ### NodeJS
 
