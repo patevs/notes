@@ -164,6 +164,18 @@ To close NerdTree (in nerdtree window) :
 
 ---
 
+## Markdown Preview Plugin Basic Usage
+
+```vim
+" Start the preview
+:MarkdownPreview
+
+" Stop the preview"
+:MarkdownPreviewStop
+```
+
+---
+
 ## Extensions & Plugins
 
 * [`awesome-vim`](https://github.com/akrawchyk/awesome-vim)
