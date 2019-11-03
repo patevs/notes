@@ -6,6 +6,17 @@
 
 ---
 
+[Compile C#](https://stackoverflow.com/questions/553143/compiling-executing-a-c-sharp-source-file-in-command-prompt)
+
+Run the C# compiler like this:
+
+```powershell
+  c:\windows\Microsoft.NET\Framework\v3.5\bin\csc.exe 
+            /t:exe /out:MyApplication.exe MyApplication.cs  ...
+```
+
+---
+
 ## Links & Resources
 
 * [Introduction to C#](https://www.w3schools.com/cs/cs_intro.asp)
