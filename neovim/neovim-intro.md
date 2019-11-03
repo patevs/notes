@@ -133,13 +133,17 @@ Plug '~/my-prototype-plugin'
 call plug#end()
 ```
 
-#### Vim-Plug Commands
+#### Vim-Plug Basic Usage
 
 ```vim
 " Check the status of plugins
 :PlugStatus
 " Install a plugin
-:PlugInstall
+:PlugInstall [name ...] [#threads]
+" Install or update plugins
+:PlugUpdate [name ...] [#threads]
+" Upgrade vim-plug itself
+:PlugUpgrade
 ```
 
 ---
