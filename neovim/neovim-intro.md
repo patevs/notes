@@ -12,6 +12,10 @@
 * [`neovim/wiki`](https://github.com/neovim/neovim/wiki)
 * [Documentation](https://neovim.io/doc/)
 
+[](.)
+
+* [Neovim setup guide](https://jdhao.github.io/2018/12/24/centos_nvim_install_use_guide_en/)
+
 ---
 
 ## Install Neovim using Chocolately
