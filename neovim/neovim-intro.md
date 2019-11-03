@@ -64,7 +64,7 @@ $uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 
 In Neovim config file, use the following settings for vim-plug:
 
-```powershell
+```vim
 call plug#begin('~/AppData/Local/nvim/plugged')
 " below are some vim plugin for demonstration purpose
 Plug 'joshdick/onedark.vim'
@@ -117,6 +117,15 @@ Plug '~/my-prototype-plugin'
 
 " Initialize plugin system
 call plug#end()
+```
+
+#### Vim-Plug Commands
+
+```vim
+" Check the status of plugins
+PlugStatus
+" Install a plugin
+PlugInstall
 ```
 
 ---
