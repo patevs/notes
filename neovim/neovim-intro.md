@@ -34,6 +34,8 @@
 ```powershell
 nvim --version # get version
 nvim # start neovim
+nvim :checkhealth # run a health check
+nvim :help init.vim # configuration information
 ```
 
 ### Configuration File Location
@@ -43,6 +45,21 @@ nvim # start neovim
 > ➡️ ~/AppData/Local/nvim/init.vim
 
 * Windows 10: `~/APPDATA/Local/nvim/init.vim`
+
+### Install plugin-manager vim-plug
+
+To install vim-plug on Windows, open a PowerShell terminal (not Windows CMD), and execute the following command:
+
+```powershell
+md ~\AppData\Local\nvim\autoload
+$uri = 'https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+(New-Object Net.WebClient).DownloadFile(
+  $uri,
+  $ExecutionContext.SessionState.Path.GetUnresolvedProviderPathFromPSPath(
+    "~\AppData\Local\nvim\autoload\plug.vim"
+  )
+)
+```
 
 ---
 
