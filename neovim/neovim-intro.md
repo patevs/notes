@@ -24,6 +24,15 @@
 
 ---
 
+## Basic Usage
+
+```powershell
+nvim --version # get version
+nvim # start neovim
+```
+
+---
+
 ## Extensions & Plugins
 
 * [`awesome-vim`](https://github.com/akrawchyk/awesome-vim)
