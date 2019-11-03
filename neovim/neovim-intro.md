@@ -139,13 +139,17 @@ call plug#end()
 
 Set python/python3 executable locations:
 
+```vim
 let g:python_host_prog  = '/path/to/python'
 let g:python3_host_prog  = '/path/to/python3'
+```
 
 Enable/Disable python/python3 support:
 
+```vim
 let g:loaded_python_provider = 0
 let g:loaded_python3_provider = 0
+```
 
 ---
 
