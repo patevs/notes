@@ -35,6 +35,14 @@ nvim --version # get version
 nvim # start neovim
 ```
 
+### Configuration File Location
+
+[Neovim Windows init.vim location #3700](https://github.com/neovim/neovim/issues/3700#issuecomment-157778920)
+
+> ➡️ ~/AppData/Local/nvim/init.vim
+
+* Windows 10: `~/APPDATA/Local/nvim/init.vim`
+
 ---
 
 ## Extensions & Plugins
