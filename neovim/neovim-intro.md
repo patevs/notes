@@ -39,7 +39,21 @@ nvim :checkhealth # run a health check
 nvim :help init.vim # configuration information
 ```
 
-### Configuration File Location
+### Basic Commands
+
+```powershell
+:q # close tab
+:qa # quit
+:qa! # force quit
+:w # write changes
+:gt # next tab
+:gT # prior tab
+nnn g t # numbered tab
+```
+
+---
+
+## Configuration File Location
 
 [Neovim Windows init.vim location #3700](https://github.com/neovim/neovim/issues/3700#issuecomment-157778920)
 
@@ -77,7 +91,7 @@ call plug#end()
 
 When you use `:PlugInstall`, all the plugins will be installed under `~/AppData/Local/nvim/plugged`. You can change this directory to where you want.
 
-#### Example init.vim
+#### Example `init.vim`
 
 ```vim
 " Specify a directory for plugins
@@ -123,9 +137,9 @@ call plug#end()
 
 ```vim
 " Check the status of plugins
-PlugStatus
+:PlugStatus
 " Install a plugin
-PlugInstall
+:PlugInstall
 ```
 
 ---
