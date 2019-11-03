@@ -144,6 +144,26 @@ call plug#end()
 
 ---
 
+## NerdTree Plugin Basic Usage
+
+To open NerdTree :
+
+`:NERDTreeFocus`
+
+To switch beetween nerdtree and file opened windows :
+
+`ctrl + ww (double w)`
+
+or
+
+`ctrl + w + (h/j/k/l)`
+
+To close NerdTree (in nerdtree window) :
+
+`:q`
+
+---
+
 ## Extensions & Plugins
 
 * [`awesome-vim`](https://github.com/akrawchyk/awesome-vim)
