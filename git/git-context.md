@@ -14,7 +14,6 @@
 
 Delete the following registry keys:
 
-
 ```md
 HKEY_CLASSES_ROOT\Directory\shell\git_gui
 HKEY_CLASSES_ROOT\Directory\shell\git_shell
