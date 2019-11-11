@@ -9,9 +9,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ## Categories
 
 - [Android](https://github.com/patevs/notes#android)
-- [CLI](https://github.com/patevs/notes#cli)
 - [Bash](https://github.com/patevs/notes#bash)
 - [Batch](https://github.com/patevs/notes#batch)
+- [CLI](https://github.com/patevs/notes#cli)
+- [Dotnet Try](https://github.com/patevs/notes#dotnet-try)
 - [Electron](https://github.com/patevs/notes#electron)
 - [Favicon](https://github.com/patevs/notes#favicon)
 - [Flutter](https://github.com/patevs/notes#flutter)
@@ -38,10 +39,6 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 - [Android development basics](https://github.com/patevs/notes/blob/master/android/android-basics.md)
 
-### CLI
-
-- [Awesome CLI apps](https://github.com/patevs/notes/blob/master/cli/cli-apps.md)
-
 ### Bash
 
 - [Introduction to Bash](https://github.com/patevs/notes/blob/master/bash/bash-basics.md)
@@ -49,6 +46,14 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### Batch
 
 - [Introduction to Batch Scripting](https://github.com/patevs/notes/blob/master/batch/batch-basics.md)
+
+### CLI
+
+- [Awesome CLI apps](https://github.com/patevs/notes/blob/master/cli/cli-apps.md)
+
+### Dotnet-Try
+
+- [Getting started with dotnet try](https://github.com/patevs/notes/blob/master/dotnet-try/dotnet-try-intro.md)
 
 ### Electron
 
