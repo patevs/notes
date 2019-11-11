@@ -7,6 +7,7 @@
 ## Links & Resources
 
 * [`dotnet/try`](https://github.com/dotnet/try)
-* [Local Setup](https://github.com/dotnet/try/blob/master/DotNetTryLocal.md)
+* [.NET try Local Setup](https://github.com/dotnet/try/blob/master/DotNetTryLocal.md)
+* [.NET Jupyter Notebooks](https://github.com/dotnet/try/blob/master/NotebooksLocalExperience.md)
 
 ---
