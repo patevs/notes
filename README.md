@@ -1,6 +1,8 @@
 # Notes
 
-> This is a collection of short articles and notes about things I have learned mostly pertaining to various topics of software development.
+> This is a collection of short articles and notes about things I have learned; 
+> mostly about topics of software design and development but also anything that
+> I find interesting or am studying.
 
 I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
