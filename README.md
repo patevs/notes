@@ -72,6 +72,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### Git
 
 - [Remove 'Git GUI Here' from context menu](https://github.com/patevs/notes/blob/master/git/git-context.md)
+- [Introduction the GitFlow Branching Model](https://github.com/patevs/notes/blob/master/git/git-flow.md)
 
 ### GitHub
 
