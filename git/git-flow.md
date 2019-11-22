@@ -67,8 +67,62 @@ $ git push origin develop
 
 ---
 
-## Hotfix Branches
-
 ## Release Branches
+
+May branch off from:
+    `develop`
+Must merge back into:
+    `develop` and `master`
+Branch naming convention:
+    `release-*`
+
+Release branches support preparation of a new production release. They allow for last-minute dotting of i’s and crossing t’s. Furthermore, they allow for minor bug fixes and preparing meta-data for a release (version number, build dates, etc.). By doing all of this work on a release branch, the `develop` branch is cleared to receive features for the next big release.
+
+Release branches are created from the develop branch.
+
+```bash
+$ git checkout -b release-1.2 develop
+# Switched to a new branch "release-1.2"
+$ ./bump-version.sh 1.2
+# Files modified successfully, version bumped to 1.2.
+$ git commit -a -m "Bumped version number to 1.2"
+# [release-1.2 74d9424] Bumped version number to 1.2
+# 1 files changed, 1 insertions(+), 1 deletions(-)
+```
+
+When the state of the release branch is ready to become a real release, some actions need to be carried out. First, the release branch is merged into `master` (since every commit on `master` is a new release by definition, remember). Next, that commit on `master` must be tagged for easy future reference to this historical version. Finally, the changes made on the release branch need to be merged back into `develop`, so that future releases also contain these bug fixes.
+
+```bash
+$ git checkout master
+# Switched to branch 'master'
+$ git merge --no-ff release-1.2
+# Merge made by recursive.
+# (Summary of changes)
+$ git tag -a 1.2 -m "Release version 1.2"
+# Tag release version
+$ git push origin master --tags
+# Update origin/master including tags
+```
+
+To keep the changes made in the release branch, we need to merge those back into `develop`, though.
+
+```bash
+$ git checkout develop
+# Switched to branch 'develop'
+$ git merge --no-ff release-1.2
+# Merge made by recursive.
+# (Summary of changes)
+```
+
+Now we are really done and the release branch may be removed, since we don’t need it anymore:
+
+```bash
+$ git branch -d release-1.2
+# Deleted branch release-1.2 (was ff452fe).
+```
+
+---
+
+## Hotfix Branches
 
 ---
