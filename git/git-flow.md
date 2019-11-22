@@ -35,6 +35,37 @@ When the source code in the develop branch reaches a stable point and is ready t
 
 ## Feature Branches
 
+May branch off from:
+    `develop`
+Must merge back into:
+    `develop` 
+Branch naming convention:
+    anything except `master`, `develop`, `release-*`, or `hotfix-*`
+
+Feature branches (or sometimes called topic branches) are used to develop new features for the upcoming or a distant future release.
+
+When starting work on a new feature, branch off from the develop branch.
+
+```bash
+$ git checkout -b myfeature develop
+# Switched to a new branch "myfeature"
+```
+
+Finished features may be merged into the develop branch to definitely add them to the upcoming release:
+
+```bash
+$ git checkout develop
+# Switched to branch 'develop'
+$ git merge --no-ff myfeature
+# Updating ea1b82a..05e9557
+# (Summary of changes)
+$ git branch -d myfeature
+# Deleted branch myfeature (was 05e9557).
+$ git push origin develop
+```
+
+---
+
 ## Hotfix Branches
 
 ## Release Branches
