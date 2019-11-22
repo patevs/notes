@@ -62,6 +62,7 @@ $ git merge --no-ff myfeature
 $ git branch -d myfeature
 # Deleted branch myfeature (was 05e9557).
 $ git push origin develop
+# Update origin/develop
 ```
 
 ---
