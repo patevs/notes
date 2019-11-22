@@ -14,6 +14,8 @@
 
 ## GitFlow Workflow
 
+![GitFlow](../assets/git-flow.png)
+
 At the core, the development model is greatly inspired by existing models out there. The central repo holds two main branches with an infinite lifetime:
 
 - master
@@ -120,9 +122,5 @@ Now we are really done and the release branch may be removed, since we don’t n
 $ git branch -d release-1.2
 # Deleted branch release-1.2 (was ff452fe).
 ```
-
----
-
-## Hotfix Branches
 
 ---
