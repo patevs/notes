@@ -33,10 +33,10 @@ When the source code in the develop branch reaches a stable point and is ready t
 
 ---
 
-## Feature Branchs
+## Feature Branches
 
-## Hotfix Branchs
+## Hotfix Branches
 
-## Release Branchs
+## Release Branches
 
 ---
