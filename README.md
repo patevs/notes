@@ -102,6 +102,20 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 - [NPM tips and tricks](https://github.com/patevs/notes/blob/master/npm/npm-tips-tricks.md)
 
+### PowerShell
+
+- [PowerShell prompt customization](https://github.com/patevs/notes/blob/master/powershell/powershell-custom.md)
+- [Unicode support in PowerShell](https://github.com/patevs/notes/blob/master/powershell/unicode-support.md)
+
+### Python
+
+- [Python development basics](https://github.com/patevs/notes/blob/master/python/python-basics.md)
+- [Python environment management](https://github.com/patevs/notes/blob/master/python/python-environment.md)
+
+### Rails
+
+- [Introduction to Ruby on Rails Development](https://github.com/patevs/notes/blob/master/rails/rails-intro.md)
+
 ### Rainmeter
 
 - [Rainmeter install and setup](https://github.com/patevs/notes/blob/master/rainmeter/rainmeter-basics.md)
@@ -118,16 +132,6 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 - [TypeScript development basics](https://github.com/patevs/notes/blob/master/typescript/typescript-basics.md)
 - [TypeScript NodeJS setup](https://github.com/patevs/notes/blob/master/typescript/typescript-node.md)
-
-### PowerShell
-
-- [PowerShell prompt customization](https://github.com/patevs/notes/blob/master/powershell/powershell-custom.md)
-- [Unicode support in PowerShell](https://github.com/patevs/notes/blob/master/powershell/unicode-support.md)
-
-### Python
-
-- [Python development basics](https://github.com/patevs/notes/blob/master/python/python-basics.md)
-- [Python environment management](https://github.com/patevs/notes/blob/master/python/python-environment.md)
 
 ### Webpack
 
