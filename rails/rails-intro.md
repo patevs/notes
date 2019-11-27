@@ -41,8 +41,7 @@ rails server
 | config/     | Configure your application's routes, database, and more. |
 | config.ru   | Rack configuration for Rack based servers used to start the application. |
 | db/         | Contains your current database schema, as well as the database migrations. |
-| Gemfile
-Gemfile.lock  | These files allow you to specify what gem dependencies are needed for your Rails application. These files are used by the Bundler gem. |
+| Gemfile     | These files allow you to specify what gem dependencies are needed for your Rails application. These files are used by the Bundler gem. |
 | lib/        | Extended modules for your application. |
 | log/        | Application log files. |
 | package.json | This file allows you to specify what npm dependencies are needed for your Rails application. This file is used by Yarn. |
