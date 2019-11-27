@@ -14,7 +14,6 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Bash](https://github.com/patevs/notes#bash)
 - [Batch](https://github.com/patevs/notes#batch)
 - [CLI](https://github.com/patevs/notes#cli)
-- [Dotnet Try](https://github.com/patevs/notes#dotnet-try)
 - [Electron](https://github.com/patevs/notes#electron)
 - [Favicon](https://github.com/patevs/notes#favicon)
 - [Flutter](https://github.com/patevs/notes#flutter)
@@ -31,6 +30,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Rainmeter](https://github.com/patevs/notes#rainmeter)
 - [Raspberry Pi](https://github.com/patevs/notes#raspberry-pi)
 - [Scala](https://github.com/patevs/notes#scala)
+- [Try Dotnet](https://github.com/patevs/notes#try-dotnet)
 - [TypeScript](https://github.com/patevs/notes#typescript)
 - [Webpack](https://github.com/patevs/notes#webpack)
 - [WSL](https://github.com/patevs/notes#wsl)
@@ -53,10 +53,6 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### CLI
 
 - [Awesome CLI apps](https://github.com/patevs/notes/blob/master/cli/cli-apps.md)
-
-### Dotnet-Try
-
-- [Getting started with dotnet try](https://github.com/patevs/notes/blob/master/dotnet-try/dotnet-try-intro.md)
 
 ### Electron
 
@@ -128,6 +124,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### Scala
 
 - [Scala development basics](https://github.com/patevs/notes/blob/master/scala/scala-basics.md)
+
+### Try-Dotnet
+
+- [Getting started with try dotnet](https://github.com/patevs/notes/blob/master/try-dotnet/try-intro.md)
 
 ### TypeScript
 
