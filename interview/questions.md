@@ -30,7 +30,7 @@
 
 [](.)
 
-> If I job the job, what are the key knowledege areas that I need to work on?
+> If get the job, what are the key knowledege areas that I need to work on?
 
 ---
 
