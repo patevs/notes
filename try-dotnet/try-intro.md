@@ -20,7 +20,7 @@
 
 ---
 
-## Installation
+## Try .Net Installation
 
 To install the tool run the following command:
 
@@ -33,5 +33,29 @@ Updating to the latest version of the tool is easy. Run the following command:
 ```powershell
 dotnet tool update -g dotnet-try
 ```
+
+---
+
+## .Net Notebooks Setup
+
+Install `jupyter`:
+
+`pip install jupyter`
+
+Install the `dotnet interactive` global tool:
+
+`dotnet tool install -g dotnet-interactive`
+
+Install the .NET kernel by running the following:
+
+`dotnet interactive jupyter install`
+
+You can verify the installation by running the following:
+
+`jupyter kernelspec list`
+
+Launch JupyterLab:
+
+`jupyter lab`
 
 ---
