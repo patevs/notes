@@ -60,4 +60,15 @@ What do you measure? What are your most important product metrics?
 - What does the company do to nurture and train its employees?
 - There's "C++" (or Python, Swift or any other tech) in the job description. How will you estimate my proficiency in this tech in 3 months?
 
+### HR
+
+- **How do you see this position evolving in the next three years?**
+- **Who is your ideal candidate and how can I make myself more like them?**
+- What concerns/reservations do you have about me for this position?
+- What can I help to clarify that would make hiring me an easy decision?
+- How does the management team deal with mistakes?
+- If you could hire anyone to join your team, who would that be and why?
+- How long does the average engineer stay at the company?
+- Why have the last few people left?
+
 ---
