@@ -39,24 +39,25 @@ dotnet tool update -g dotnet-try
 
 ## .Net Notebooks Setup
 
-Install `jupyter`:
+* Install `Jupyter` and `JupyterLab`:
 
-`pip install jupyter`
+  * `pip install jupyter`
+  * `pip install jupyterlab`
 
-Install the `dotnet interactive` global tool:
+* Install the `dotnet interactive` global tool:
 
-`dotnet tool install -g dotnet-interactive`
+  * `dotnet tool install -g dotnet-interactive`
 
-Install the .NET kernel by running the following:
+* Install the .NET kernel by running the following:
 
-`dotnet interactive jupyter install`
+  * `dotnet interactive jupyter install`
 
-You can verify the installation by running the following:
+* Verify the installation by running the following:
 
-`jupyter kernelspec list`
+  * `jupyter kernelspec list`
 
-Launch JupyterLab:
+* Launch `JupyterLab`:
 
-`jupyter lab`
+  * `jupyter lab`
 
 ---
