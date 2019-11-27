@@ -16,12 +16,11 @@
 
 ## Interview Questions
 
-- **What are the engineering challenges that the company/team is facing?**
+> At a high level, what are the blocking (technical/engineering/development) issues that you / your team / Vista
+> are currently dealing with and how do you think youre going to solve them?
 
-> At a high level, what are the blocking technical/engineering/development issues that you / your team / Vista
-> are currently dealing with and how do you think youre going to deal with them?
-
-- **What has been the worst technical blunder that has happened in the recent past? How did you guys deal with it? What changes were implemented afterwards to make sure it didn't happen again?**
+> Have there been any major technical mistakes/oversites in the recent past? If so, how was it dealt with?
+> and what changes were implemented to ensure it didnt happen again?
 
 ---
 
