@@ -33,4 +33,13 @@
 - What was something you wish someone would have told you before you joined?
 - What was your best moment so far at the company?
 
+### Culture
+
+- **What is the most frustrating part about working here?**
+- **What is unique about working at this company that you have not experienced elsewhere?**
+- **What is something you wish were different about your job?**
+- How will the work I will be doing contribute to the organization's mission?
+- What do you like about working here?
+- What is your policy on working from home/remotely?
+
 ---
