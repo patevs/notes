@@ -14,7 +14,18 @@
 
 ---
 
-## Questions to Ask
+## Interview Questions
+
+- **What are the engineering challenges that the company/team is facing?**
+
+> At a high level, what are the blocking technical/engineering/development issues that you / your team / Vista
+> are currently dealing with and how do you think youre going to deal with them?
+
+- **What has been the worst technical blunder that has happened in the recent past? How did you guys deal with it? What changes were implemented afterwards to make sure it didn't happen again?**
+
+---
+
+## Example Questions to Ask
 
 - [questions-to-ask](https://yangshun.github.io/tech-interview-handbook/questions-to-ask)
 
