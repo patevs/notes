@@ -14,7 +14,27 @@
 
 ---
 
-## Questions to Ask
+## Interview Questions
+
+> At a high level, what are the blocking (technical/engineering/development) issues that you / your team / Vista
+> are currently dealing with and how do you think youre going to solve them?
+
+[](.)
+
+> Have there been any major technical mistakes/oversites in the recent past? If so, how was it dealt with?
+> and what changes were implemented to ensure it didnt happen again?
+
+[](.)
+
+> What are the opportunities for me to grow and develop assuming ive done a good job?
+
+[](.)
+
+> If get the job, what are the key knowledege areas that I need to work on?
+
+---
+
+## Example Questions to Ask
 
 - [questions-to-ask](https://yangshun.github.io/tech-interview-handbook/questions-to-ask)
 
