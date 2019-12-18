@@ -9,6 +9,10 @@
 - [Rails Website](https://rubyonrails.org/)
 - [Getting Started Guide](https://guides.rubyonrails.org/getting_started.html)
 
+[]()
+
+- [react-rails](https://learnetto.com/blog/react-rails)
+
 ---
 
 ## Prerequisites
