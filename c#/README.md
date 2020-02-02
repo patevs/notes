@@ -21,8 +21,8 @@
 Run the C# compiler by executing the following command:
 
 ```powershell
-  c:\windows\Microsoft.NET\Framework\v3.5\bin\csc.exe
-            /t:exe /out:MyApplication.exe MyApplication.cs  ...
+C:\Windows\Microsoft.NET\Framework\v3.5\csc.exe
+          /t:exe /out:MyApplication.exe MyApplication.cs  ...
 ```
 
 ---
