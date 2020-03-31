@@ -1,0 +1,36 @@
+Windows Registry Editor Version 5.00
+; Open files
+; Default Git-Bash Location C:\Program Files\Git\git-bash.exe
+; source: https://stackoverflow.com/a/44019893
+; "C:\Users\Patrick\scoop\apps\github\current\GitHubDesktop.exe"
+; "Icon"="C:\\Users\\Patrick\\scoop\\apps\git\\current\\git-bash.exe"
+; "Icon"="C:\\Users\\Patrick\\scoop\\apps\\github\\current\\GitHubDesktop.exe"
+
+[HKEY_CLASSES_ROOT\*\shell\Open Git Bash]
+@="Open Git Bash"
+"Icon"="C:\\Users\\Patrick\\scoop\\apps\\github\\current\\GitHubDesktop.exe"
+
+
+[HKEY_CLASSES_ROOT\*\shell\Open Git Bash\command]
+@="\"C:\\Users\\Patrick\\scoop\\apps\git\\current\\git-bash.exe\" \"--cd=%1\""
+
+; This will make it appear when you right click ON a folder
+; The "Icon" line can be removed if you don't want the icon to appear
+
+[HKEY_CLASSES_ROOT\Directory\shell\bash]
+@="Open Git Bash"
+"Icon"="C:\\Users\\Patrick\\scoop\\apps\\github\\current\\GitHubDesktop.exe"
+
+
+[HKEY_CLASSES_ROOT\Directory\shell\bash\command]
+@="\"C:\\Users\\Patrick\\scoop\\apps\git\\current\\git-bash.exe\" \"--cd=%1\""
+
+; This will make it appear when you right click INSIDE a folder
+; The "Icon" line can be removed if you don't want the icon to appear
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\bash]
+@="Open Git Bash"
+"Icon"="C:\\Users\\Patrick\\scoop\\apps\\github\\current\\GitHubDesktop.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\bash\command]
+@="\"C:\\Users\\Patrick\\scoop\\apps\git\\current\\git-bash.exe\" \"--cd=%v.\""
