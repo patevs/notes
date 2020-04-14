@@ -20,5 +20,16 @@
     "publish": false,
     "preview": false,
     "releaseDraft": true
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-emoji"
+    },
+    "cz-emoji": {
+      "skipQuestions": [
+        "body",
+        "issues"
+      ]
+    }
   }
 }
