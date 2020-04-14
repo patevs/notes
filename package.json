@@ -3,6 +3,7 @@
   "version": "0.0.7",
   "description": "notes about things I have learned",
   "author": "PatEvs",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/patevs/notes.git"
