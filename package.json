@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "commitizen": "^4.0.4",
-    "cz-emoji": "^1.2.1"
+    "cz-emoji": "^1.2.1",
+    "np": "^6.2.1"
   }
 }
