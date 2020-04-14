@@ -1,6 +1,6 @@
 # Notes
 
-> This is a collection of short articles and notes about things I have learned; 
+> This is a collection of short articles and notes about things I have learned;
 > mostly about topics of software design and development but also anything that
 > I find interesting or am studying.
 
