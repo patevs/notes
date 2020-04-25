@@ -71,6 +71,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Remove 'Git GUI Here' from context menu](https://github.com/patevs/notes/blob/master/git/git-context.md)
 - [Introduction the GitFlow Branching Model](https://github.com/patevs/notes/blob/master/git/git-flow.md)
 - [Amending a Commit Message](https://github.com/patevs/notes/blob/master/git/amend-commit.md)
+- [Merging an upstream repository into your fork](./git/merge-upstream.md)
 
 ### GitHub
 
