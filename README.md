@@ -76,6 +76,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### GitHub
 
 - [GitHub pull-request & merge](https://github.com/patevs/notes/blob/master/github/github-pull.md)
+- [Introduction to GitHub Actions](./github/actions.md)
 
 ### Hyper
 
