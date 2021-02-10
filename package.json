@@ -1,6 +1,6 @@
 {
   "name": "notes",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "description": "Notes about things I have learned",
   "author": "PatEvs",
   "license": "MIT",
@@ -23,8 +23,14 @@
       "gitmoji"
     ],
     "rules": {
-      "subject-empty": [0, "never"],
-      "type-empty": [0, "never"]
+      "subject-empty": [
+        0,
+        "never"
+      ],
+      "type-empty": [
+        0,
+        "never"
+      ]
     }
   },
   "husky": {
