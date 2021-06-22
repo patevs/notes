@@ -12,9 +12,19 @@
 
 * [Backdating GitHub Commits](https://www.reddit.com/r/git/comments/8hzji1/backdating_commitspushes_to_github/)
 
+    Bash
+
     ```bash
     export GIT_AUTHOR_DATE="Mon Mar 1 20:00:00 2021 +1300"
     export GIT_COMMITTER_DATE="Mon Mar 1 20:00:00 2021 +1300"
+    git commit
+    ```
+
+    PowerShell
+
+    ```powershell
+    $ENV:GIT_AUTHOR_DATE="Mon Mar 1 20:00:00 2021 +1300"
+    $ENV:GIT_COMMITTER_DATE="Mon Mar 1 20:00:00 2021 +1300"
     git commit
     ```
 
