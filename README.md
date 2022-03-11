@@ -74,6 +74,7 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 - [Merging an upstream repository into your fork](./git/merge-upstream.md)
 - [Backdating Git Commits](./git/backdate-commit.md)
 - [Fix `CRLF` Line Endings](./git/fix-crlf-line-endings.md)
+- [Delete Git Commits](./git/delete-git-commits.md)
 
 ### GitHub
 
@@ -83,6 +84,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 ### Hyper
 
 - [Hyper terminal install and setup](https://github.com/patevs/notes/blob/master/hyper/hyper-basics.md)
+
+### Java
+
+- [Print Java Version Number](./java/print-version-number.md)
 
 ### Music
 
