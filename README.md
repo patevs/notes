@@ -85,6 +85,10 @@ I borrowed this idea from [jbranchaud/til](https://github.com/jbranchaud/til).
 
 - [Hyper terminal install and setup](https://github.com/patevs/notes/blob/master/hyper/hyper-basics.md)
 
+### Java
+
+- [Print Java Version Number](./java/print-version-number.md)
+
 ### Music
 
 - [mps-youtube install and setup](https://github.com/patevs/notes/blob/master/music/mpsyt.md)
